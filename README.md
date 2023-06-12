@@ -20,14 +20,14 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
   ```bash
   BASICSR_EXT=True python setup.py develop
   ```
-  (Details at [EDVR](<https://github.com/xinntao/EDVR>) and [BasicSR Installation](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/INSTALL.md>))
+   * (Details at [EDVR](<https://github.com/xinntao/EDVR>) and [BasicSR Installation](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/INSTALL.md>))
 
 
 # Datasets
 
 1. Prepare REDS dataset
 
-  Download [REDS dataset](<https://seungjunnah.github.io/Datasets/reds.html>) and put them in `datasets/REDS_dataset/train_shirp`.
+  - Download [REDS dataset](<https://seungjunnah.github.io/Datasets/reds.html>) and put them in `datasets/REDS_dataset/train_shirp`.
 
 2. Create synthetic reflection dataset
 
