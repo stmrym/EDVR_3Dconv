@@ -7,6 +7,7 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
 - Python >= 3.7
 - PyTorch >= 1.7
 - NVIDIA GPU + CUDA
+<br>
 
 2. Install dependent packages
 
@@ -29,6 +30,7 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
 1. Prepare REDS dataset
 
     Download [REDS dataset](<https://seungjunnah.github.io/Datasets/reds.html>) and put them in `datasets/REDS_dataset/train_shirp`.
+    <br>
 
 2. Create synthetic reflection dataset
 
@@ -43,7 +45,8 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
 1. Configuration
 
     Edit ```options/test/EDVR/test_EDVR_M_RR_REDS.yml``` (Details at [Config.md](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/Config.md>))
-
+    <br>
+    
 2. Testing
 
     ```bash
@@ -57,6 +60,7 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
 1. Configuration
 
     Edit ```options/train/EDVR/train_EDVR_M_RR_REDS.yml``` (Details at [Config.md](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/Config.md>))
+    <br>
 
 2. Training
 
