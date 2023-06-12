@@ -74,7 +74,7 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
 
 # Results
 
-![Input](https://github.com/stmrym/EDVR_3Dconv/assets/114562027/14b826e4-bca1-417d-a130-6cc62ba5f5e5)
+<img src="https://github.com/stmrym/EDVR_3Dconv/assets/114562027/14b826e4-bca1-417d-a130-6cc62ba5f5e5" wddth="400">
 
 ![EDVR](https://github.com/stmrym/EDVR_3Dconv/assets/114562027/d237ed03-8383-482e-8d39-378361e0bec5)
 
