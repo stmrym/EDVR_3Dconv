@@ -20,7 +20,7 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
   ```bash
   BASICSR_EXT=True python setup.py develop
   ```
-    (Details at [EDVR](<https://github.com/xinntao/EDVR>) and [BasicSR Installation](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/INSTALL.md>))
+   (Details at [EDVR](<https://github.com/xinntao/EDVR>) and [BasicSR Installation](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/INSTALL.md>))
 
 
 # Datasets
@@ -48,7 +48,7 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
   ```bash
   python basicsr/test.py -opt options/test/EDVR/test_EDVR_M_RR_REDS.yml
   ```
-    (Details at [TrainTest.md](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/TrainTest.md>))
+   (Details at [TrainTest.md](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/TrainTest.md>))
 
 
 # Training
@@ -62,8 +62,8 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
   ```bash
   python basicsr/train.py -opt options/train/EDVR/train_EDVR_M_RR_REDS.yml
   ```
-    (Details at [TrainTest.md](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/TrainTest.md>))
+   (Details at [TrainTest.md](<https://github.com/XPixelGroup/BasicSR/blob/master/docs/TrainTest.md>))
 
 # License
 
-    [Apache 2.0 license](<https://github.com/stmrym/EDVR_3Dconv/blob/main/LICENSE>)
+   [Apache 2.0 license](<https://github.com/stmrym/EDVR_3Dconv/blob/main/LICENSE>)
