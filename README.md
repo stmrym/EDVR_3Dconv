@@ -13,7 +13,8 @@ This repo has been based on [EDVR](<https://github.com/xinntao/EDVR>) and [Basic
      ```bash
     cd EDVR_3Dconv
     pip install -r requirements.txt
-    ```
+    ```  
+
 
 3. Install BasicSR
 
